@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "req-general"
+    }
+  },
+  "defaultProject": "req-general",
+  "cli": {
+    "analytics": "b041a720-5b1e-4595-b2cd-fb3a7f756298"
+  }
 }
